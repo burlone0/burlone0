@@ -1,6 +1,4 @@
 ## 👋 Hi i'm Burlone
-<br>
-<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burlone0&theme=midnight-purple)
 <br>
 <br>
