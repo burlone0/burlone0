@@ -2,4 +2,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burlone0&theme=midnight-purple)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discord,bots,devto)](https://skillicons.dev)
