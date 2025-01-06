@@ -8,7 +8,7 @@
 *"Cubattolies my love..."*
 
 ## Current Projects:
-* [Reload Backend](https://github.com/Project-Reload/Reload-Backend)
-* [OGFN Center](https://discord.gg/ogfncenter)
-* [Gekko](https://discord.gg/7V5tzZMPxs)
-* [Stellar](https://discord.gg/mt7vdhG2PH)
+• [Reload Backend](https://github.com/Project-Reload/Reload-Backend)
+• [OGFN Center](https://discord.gg/ogfncenter)
+• [Gekko](https://discord.gg/7V5tzZMPxs)
+• [Stellar](https://discord.gg/mt7vdhG2PH)
