@@ -1,5 +1,5 @@
-## 👋 Hi i'm Burlone
 <div align="center" width="50">
+## 👋 Hi i'm Burlone
 
 [![My Skills](https://skillicons.dev/icons?i=js,discord,bots,devto)](https://skillicons.dev)
 
