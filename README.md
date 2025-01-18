@@ -1,18 +1,20 @@
-<div align="center" width="50">
-
 ## 👋 Hi i'm Burlone
 
-[![My Skills](https://skillicons.dev/icons?i=js,discord,bots,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,discord,discordjs,java,cs,cpp,vscode)](https://skillicons.dev)
 
-### Discord: burlone413
+### 👀 What do I like to develop most?  
+- 🕹️ **OG Fortnite**  
+- 🧨 **Minecraft Plugins**
+- ✨ **Tools & Launcher**
+- 🎁 **Roblox Scripts**
 
-*"Cubattolies my love..."*
+### 🧐 About Me
+- **Languages:** JavaScript, TypeScript, Discord JS, Java, C#, C++, Lua
+- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend), [OGFN Center](https://discord.gg/ogfncenter), [Gekko](https://discord.gg/7V5tzZMPxs), [Stellar](https://discord.gg/mt7vdhG2PH)
+- **Games:** Fortnite, Minecraft, Osu, Bodycam, Beat Saber, Roblox etc...
 
-## Current Projects:
-[Reload Backend](https://github.com/Project-Reload/Reload-Backend)
+### 📫 Connect with Me  
+- 💬 Discord: `@burlone413`
 
-[OGFN Center](https://discord.gg/ogfncenter)
-
-[Gekko](https://discord.gg/7V5tzZMPxs)
-
-[Stellar](https://discord.gg/mt7vdhG2PH)
+### ❤ My Loves
+- [@andinglyy](https://github.com/ItzAndingly), @Bholt, [@Raffymimi](https://github.com/raffymimii)
