@@ -10,7 +10,7 @@
 
 ### 🧐 About Me
 - **Languages:** JavaScript, TypeScript, Discord JS, Java, C#, C++, Lua
-- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend), [OGFN Center](https://discord.gg/ogfncenter), [GalaxiaFN](https://dsc.gg/galaxiaftn)
+- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend)
 - **Games:** Fortnite, Minecraft, Osu, Bodycam, Beat Saber, Roblox etc...
 
 ### 📫 Connect with Me  
