@@ -9,7 +9,7 @@
 - 🎁 **Roblox Scripts**
 
 ### 🧐 About Me
-- **Languages:** JavaScript, TypeScript, Discord JS, Java, C#, C++, Lua
+- **Languages:** Java, JavaScript, TypeScript, Discord JS, C#, C++, Lua
 - **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend)
 - **Games:** Fortnite, Minecraft, Osu, Bodycam, Beat Saber, Roblox etc...
 
