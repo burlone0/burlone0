@@ -1,4 +1,4 @@
-## 👋 Hi i'm Burlone | 🔎 My Portfolio: https://portfolio.burlone413.it
+## 👋 Hi i'm Burlone
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,ts,discord,discordjs,java,cs,cpp,vscode)](https://skillicons.dev)
 
@@ -10,7 +10,7 @@
 
 ### 🧐 About Me
 - **Languages:** Java, JavaScript, TypeScript, Discord JS, C#, C++, Lua
-- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend)
+- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend) ‹› [Interlude](https://discord.gg/PzWjxsWgwS)
 - **Games:** Fortnite, Minecraft, Osu, Bodycam, Beat Saber, Roblox etc...
 
 ### 📫 Connect with Me  
