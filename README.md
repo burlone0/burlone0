@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,js,ts,cs,cpp,html,css,vscode,cloudflare,windows,electron,dotnet,postman)](https://skillicons.dev)
 
 ### 👀 What do I like to develop most?  
-- 🕹️ **OG Fortnite**  
+- 🕹️ **Weird Stuff**  
 - 🧨 **Minecraft Plugins**
 - ✨ **Tools & Launcher**
 
