@@ -9,7 +9,7 @@
 
 ### 🧐 About Me
 - **Languages:** Java, JavaScript, TypeScript, Discord JS, C#, C++, "HTML", "CSS"
-- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend) ・ [Fenrir Launcher](https://github.com/burlone0/Fenrir-Launcher)
+- **Projects:** [Reload Backend](https://github.com/Project-Reload/Reload-Backend) ・ [Rocket](https://discord.gg/projectrocket)
 - **Games:** Fortnite, Minecraft, Osu, Bodycam, Beat Saber, Roblox etc...
 
 ### 📫 My Contacts  
